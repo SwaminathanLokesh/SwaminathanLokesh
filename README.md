@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Swaminathan%20Narasimhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20GenAI&descAlignY=58&descSize=16" alt="Swaminathan Narasimhan banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Swaminathan%20Narasimhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20GenAI&descAlignY=58&descSize=16" alt="Swaminathan Narasimhan" />
 </h1>
 
 <p align="center">
