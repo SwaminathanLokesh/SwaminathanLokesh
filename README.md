@@ -1,8 +1,6 @@
-## Hi there 👋
-<!-- Banner -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Swaminathan%20Narasimhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20GenAI&descAlignY=58&descSize=16" alt="Swaminathan Narasimhan" />
-</h1>
+<p align="center">
+  <img src="assets/banner.png" alt="Swaminathan Narasimhan - Data Science and AI Engineer" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,7 +12,6 @@
   <a href="https://www.linkedin.com/in/swaminathan-narasimhan-974501401"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lokeshnarasimhan824@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-36D399?style=for-the-badge" alt="Open to work" />
-  <img src="https://komarev.com/ghpvc/?username=SwaminathanLokesh&label=Profile%20views&color=2c5364&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -114,8 +111,4 @@ I'm looking for **full-time Data Science, Machine Learning and AI roles**. If yo
 <p align="center">
   <a href="https://www.linkedin.com/in/swaminathan-narasimhan-974501401"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lokeshnarasimhan824@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
 </p>
