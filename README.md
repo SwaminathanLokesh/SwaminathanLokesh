@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Swaminathan Narasimhan - Data Science and AI Engineer" width="100%" />
-</p>
+     <img src="banner.png" alt="Swaminathan Narasimhan - Data Science and AI Engineer" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
